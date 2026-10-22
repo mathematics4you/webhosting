@@ -17,6 +17,4 @@
       "bucket_name": "webhosting"
     }
   ]
-  // Optional: add a lighter cron later if you want scheduled publishing
-  // "triggers": { "crons": ["0 * * * *"] }
 }
