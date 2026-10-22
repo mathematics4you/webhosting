@@ -16,5 +16,11 @@
       "binding": "MEDIA",
       "bucket_name": "webhosting"
     }
+  ],
+  "kv_namespaces": [
+    {
+      "binding": "SESSION",
+      "id": "VRJm5C6RmVuH5L7DFa0T"
+    }
   ]
 }
